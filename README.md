@@ -1,5 +1,5 @@
 # 蓝莓VPN
-性价比最高的VPN（国外加速器）：https://lmjiasq.top/?channel=github
+性价比最高的VPN（国外加速器）：[https://lmjiasq.top](https://lmjiasq.top/?channel=github "蓝莓VPN官网")
 ## 特点
 - 多个高质量线路、高峰期流畅4K视频
 - 不限速、不限流量、不限终端
