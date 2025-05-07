@@ -1,5 +1,5 @@
 # 蓝莓VPN
-2025中国翻墙软件VPN推荐（性价王）：[https://lmjiasq.top](https://lmjiasq.top/?channel=github "蓝莓VPN官网")
+2025中国翻墙软件VPN推荐（性价王）：[https://lanmeijsa.top](https://lanmeijsa.top/?channel=github "蓝莓VPN官网")
 ## 特点
 - 多个高质量线路、高峰期流畅4K视频
 - 所有套餐均不限速、不限流量、不限终端
